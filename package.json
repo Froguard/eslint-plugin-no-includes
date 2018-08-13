@@ -1,0 +1,28 @@
+{
+  "name": "eslint-plugin-no-includes",
+  "version": "0.0.1",
+  "description": "Disallow using the method includes",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "no-includes",
+    "includes"
+  ],
+  "author": "froguard",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "~3.9.1",
+    "mocha": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT"
+}
