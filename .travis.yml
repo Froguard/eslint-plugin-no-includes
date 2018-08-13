@@ -7,7 +7,5 @@ node_js:
  - '8.0.0'
  - '6.9.2'
  - '6.0.0'
- - '4.0.0'
- - '0.10.0'
 branch: master
 script: npm run test
