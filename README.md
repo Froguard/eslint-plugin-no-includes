@@ -2,6 +2,12 @@
 
 Disallow using the method includes
 
+[![version](https://img.shields.io/npm/v/eslint-plugin-no-inculdes.svg "version")](https://www.npmjs.com/package/eslint-plugin-no-inculdes)&nbsp;
+[![Build Status](https://img.shields.io/travis/Froguard/eslint-plugin-no-inculdes.svg)](https://travis-ci.org/Froguard/eslint-plugin-no-inculdes)&nbsp;
+[![GitHub issues](https://img.shields.io/github/issues/Froguard/eslint-plugin-no-inculdes.svg)](https://github.com/Froguard/eslint-plugin-no-inculdes/issues?q=is%3Aopen+is%3Aissue)&nbsp;
+[![license](https://img.shields.io/github/license/froguard/eslint-plugin-no-inculdes.svg)](https://github.com/froguard/eslint-plugin-no-inculdes/blob/master/LICENSE)
+
+
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org):
