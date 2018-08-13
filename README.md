@@ -2,10 +2,10 @@
 
 Disallow using the method includes
 
-[![version](https://img.shields.io/npm/v/eslint-plugin-no-inculdes.svg "version")](https://www.npmjs.com/package/eslint-plugin-no-inculdes)&nbsp;
-[![Build Status](https://img.shields.io/travis/Froguard/eslint-plugin-no-inculdes.svg)](https://travis-ci.org/Froguard/eslint-plugin-no-inculdes)&nbsp;
-[![GitHub issues](https://img.shields.io/github/issues/Froguard/eslint-plugin-no-inculdes.svg)](https://github.com/Froguard/eslint-plugin-no-inculdes/issues?q=is%3Aopen+is%3Aissue)&nbsp;
-[![license](https://img.shields.io/github/license/froguard/eslint-plugin-no-inculdes.svg)](https://github.com/froguard/eslint-plugin-no-inculdes/blob/master/LICENSE)
+[![version](https://img.shields.io/npm/v/eslint-plugin-no-includes.svg "version")](https://www.npmjs.com/package/eslint-plugin-no-includes)&nbsp;
+[![Build Status](https://img.shields.io/travis/Froguard/eslint-plugin-no-includes.svg)](https://travis-ci.org/Froguard/eslint-plugin-no-includes)&nbsp;
+[![GitHub issues](https://img.shields.io/github/issues/Froguard/eslint-plugin-no-includes.svg)](https://github.com/Froguard/eslint-plugin-no-includes/issues?q=is%3Aopen+is%3Aissue)&nbsp;
+[![license](https://img.shields.io/github/license/froguard/eslint-plugin-no-includes.svg)](https://github.com/froguard/eslint-plugin-no-includes/blob/master/LICENSE)
 
 
 ## Installation
@@ -48,6 +48,3 @@ Then configure the rules you want to use under the rules section.
 ```
 
 > Created by yeoman tool.
-
-
-
