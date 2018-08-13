@@ -1,5 +1,5 @@
 /**
- * @fileoverview Disallow using the method indexOf
+ * @fileoverview Disallow using the method includes
  * @author froguard
  */
 'use strict';
