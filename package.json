@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-includes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Disallow using the method includes",
   "keywords": [
     "eslint",
