@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "no-includes/rule-name": 2
+        "no-includes/no-includes": ["error", {ignore: ['_', 'lodash', 'underscore']}],
     }
 }
 ```
