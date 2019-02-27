@@ -1,5 +1,7 @@
 # eslint-plugin-no-includes
 
+**We suggest another package [eslint-plugin-no-methods](https://www.npmjs.com/package/eslint-plugin-no-methods) with more features.(includes this one)**
+
 Disallow using the method includes
 
 [![version](https://img.shields.io/npm/v/eslint-plugin-no-includes.svg "version")](https://www.npmjs.com/package/eslint-plugin-no-includes)&nbsp;
